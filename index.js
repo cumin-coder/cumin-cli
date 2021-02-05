@@ -1,4 +1,4 @@
-#!/usr/env/bin node
+#!/usr/bin/env node
 
 // 导入快速搭建命令号工具
 const program = require('commander');
